@@ -27,15 +27,6 @@ This is by far the best course series on deep learning that I've taken. Enjoy!
 > We will help you master Deep Learning, understand how to apply it, and build a career in AI.
 
 
-
-## Specialization Certificate
-
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
-
-![](Certificate.png)
-
-
-
 ## Similar Notes
 
 - Beautifully drawn notes by Tess Ferrandez:
@@ -67,19 +58,8 @@ Group description:
 > This group is for current, past or future students of Prof Andrew Ng's deeplearning.ai class in Coursera. The purpose is for students to get to know each other, ask questions, and share insights. However, remember the Coursera Honor Code - please do not post any solution in the forum! 
 
 
-
-## Next steps
-
-Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
-
-## Acknowledgements
-
-Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96) for helping me revising and fixing mistakes in the notes.
-
 <br/>
 
 <br/>
 
 <br/>
-
-Mahmoud Badry @ 2018
